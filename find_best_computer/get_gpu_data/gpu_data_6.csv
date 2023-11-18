@@ -1,0 +1,373 @@
+No.,gpuname,GPU Name,GPU Variant,Release Date,Bus Interface,Base Clock,Boost Clock,Memory Clock,Memory Size,Memory Type,Memory Bus,Compute Units,Pixel Rate,Texture Rate,FP32 (float),TDP,FLOPS,Architecture,Foundry,Process Size,Transistors,Density,Die Size,Generation,Predecessor,Successor,Production,Reviews,GPU Clock,Bandwidth,Pixel Shaders,Vertex Shaders,TMUs,ROPs,Vertex Rate,Slot Width,Suggested PSU,Outputs,Power Connectors,Board Number,DirectX,OpenGL,OpenCL,Vulkan,Pixel Shader,Vertex Shader,Length,Shader Model,Chip Package,Launch Price,Shading Units,L2 Cache,FP16 (half),FP64 (double),Width,Height,Weight,Storage,Availability,SM Count,Tensor Cores,RT Cores,L1 Cache,CUDA,NVENC,NVDEC,Shader Clock,SMX Count,Codename,MCD Process,Process Type,GCD Transistors,MCD Transistors,GCD Density,MCD Density,GCD Die Size,MCD Die Size,L0 Cache,L3 Cache,SMM Count,GCD Size,MCD Size,Package Size,Game Clock,Execution Units
+4,ATI Radeon 9800 XT,R360,"R360
+										
+(215R9RBKA11F)","Oct 1st, 2003",AGP 8x,,,"365 MHz
+										
+					730 Mbps effective",256 MB,DDR,256 bit,,3.296 GPixel/s,3.296 GTexel/s,,60 W,,R300,TSMC,150 nm,117 million,536.7K / mm²,218 mm²,"Radeon R300
+(9800)",Radeon R200,Radeon R400 AGP,End-of-life,20 in our database,412 MHz,23.36 GB/s,8.0,4.0,8.0,8.0,412.0 MVertices/s,Single-slot,250 W,1x DVI1x VGA1x S-Video,1x Molex,A188,9.0,2.0,,,2.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,ATI Radeon 9800 PRO,R350,"R350
+										
+(215R8PBKA12F)","Mar 1st, 2003",AGP 8x,,,"340 MHz
+										
+					680 Mbps effective",128 MB,DDR2,256 bit,,3.040 GPixel/s,3.040 GTexel/s,,47 W,,R300,TSMC,150 nm,117 million,544.2K / mm²,215 mm²,"Radeon R300
+(9800)",Radeon R200,Radeon R400 AGP,End-of-life,20 in our database,380 MHz,21.76 GB/s,8.0,4.0,8.0,8.0,380.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,1x Molex,A075,9.0 (9_0),2.0,,,2.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,ATI All-In-Wonder 9800 SE,R350,R350 SE,"Sep 10th, 2003",AGP 8x,,,"297 MHz
+										
+					594 Mbps effective",128 MB,DDR,128 bit,,1.512 GPixel/s,1.512 GTexel/s,,unknown,,R300,TSMC,150 nm,117 million,544.2K / mm²,215 mm²,"All-In-Wonder
+(9000)",,,End-of-life,20 in our database,378 MHz,9.504 GB/s,4.0,4.0,4.0,4.0,378.0 MVertices/s,Single-slot,200 W,1x DVI2x S-Video,None,957-00,9.0 (9_0),2.0,,,2.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,NVIDIA GeForce 6800 Ultra,NV40,6800 Ultra,"Apr 14th, 2004",AGP 8x,,,"550 MHz
+										
+					1100 Mbps effective",256 MB,GDDR3,256 bit,,6.800 GPixel/s,6.800 GTexel/s,,unknown,,Curie,TSMC,130 nm,222 million,773.5K / mm²,287 mm²,"GeForce 6 AGP
+(6800)",GeForce FX,GeForce 7 AGP,End-of-life,115 in our database,425 MHz,35.20 GB/s,16.0,6.0,16.0,16.0,637.5 MVertices/s,Single-slot,200 W,2x DVI1x S-Video,2x Molex,P201,9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,"216 mm
+					8.5 inches",3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,NVIDIA GeForce 6800 GT,NV40,6800 GT,"Apr 14th, 2004",AGP 8x,,,"250 MHz
+										
+					500 Mbps effective",128 MB,DDR,256 bit,,5.600 GPixel/s,5.600 GTexel/s,,unknown,,Curie,TSMC,130 nm,222 million,773.5K / mm²,287 mm²,"GeForce 6 AGP
+(6800)",GeForce FX,GeForce 7 AGP,End-of-life,115 in our database,350 MHz,16.00 GB/s,16.0,6.0,16.0,16.0,525.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,1x Molex,"P201, P212",9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,NVIDIA GeForce 6800,NV41,,"Nov 8th, 2004",PCIe 1.0 x16,,,"300 MHz
+										
+					600 Mbps effective",256 MB,DDR,256 bit,,3.900 GPixel/s,3.900 GTexel/s,,unknown,,Curie,TSMC,130 nm,222 million,986.7K / mm²,225 mm²,"GeForce 6 PCIe
+(6800)",GeForce PCX,GeForce 7 PCIe,End-of-life,115 in our database,325 MHz,19.20 GB/s,12.0,5.0,12.0,12.0,406.3 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,P260,9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,NVIDIA GeForce 6800 LE,NV40,,"Jul 21st, 2004",AGP 8x,,,"350 MHz
+										
+					700 Mbps effective",128 MB,DDR,256 bit,,2.400 GPixel/s,2.400 GTexel/s,,unknown,,Curie,TSMC,130 nm,222 million,773.5K / mm²,287 mm²,"GeForce 6 AGP
+(6800)",GeForce FX,GeForce 7 AGP,End-of-life,115 in our database,300 MHz,22.40 GB/s,8.0,4.0,8.0,8.0,300.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,1x Molex,P212,9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,NVIDIA GeForce 6600 GT,NV43,,"Aug 12th, 2004",PCIe 1.0 x16,,,"500 MHz
+										
+					1000 Mbps effective",128 MB,GDDR3,128 bit,,2.000 GPixel/s,4.000 GTexel/s,,unknown,,Curie,TSMC,110 nm,146 million,948.1K / mm²,154 mm²,"GeForce 6 PCIe
+(6600)",GeForce PCX,GeForce 7 PCIe,End-of-life,146 in our database,500 MHz,16.00 GB/s,8.0,3.0,8.0,4.0,375.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,P216,9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,,3.0,BGA-825,199 USD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1217,ATI Rage Mobility 128 AGP 2X,M3,Mobility-128M,"Oct 1st, 1999",AGP 2x,,,105 MHz,16 MB,SDR,64 bit,,210.0 MPixel/s,210.0 MTexel/s,,unknown,,Rage 4,TSMC,250 nm,8 million,114.3K / mm²,70 mm²,"Rage Mobility
+(128)",,M6,End-of-life,2 in our database,105 MHz,840.0 MB/s,2.0,0.0,2.0,2.0,,Single-slot,,1x DB13W3,,,6.0,1.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2847,ATI Video Xpression+,Mach64,"Mach64 VT4
+										
+(215VT4UA13)","May 1st, 1996",PCI,,,62 MHz,2 MB,EDO,64 bit,,62.00 MPixel/s,0 MTexel/s,,unknown,,Mach,,600 nm,1 million,11.1K / mm²,90 mm²,Mach 64,Mach 32,Rage,End-of-life,,62 MHz,496.0 MB/s,1.0,0.0,0.0,1.0,,Single-slot,200 W,1x VGA,,109-40600-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3683,AMD Xbox Series S GPU,Lockhart,,"Nov 10th, 2020",,,,"1750 MHz
+										
+					14 Gbps effective",8 GB,GDDR6,128 bit,20.0,50.08 GPixel/s,125.2 GTexel/s,4.006 TFLOPS,100 W,4.006,RDNA 2.0,TSMC,7 nm,"8,000 million",40.6M / mm²,197 mm²,"Console GPU
+(Microsoft)",,,Active,,1565 MHz,224.0 GB/s,,,80.0,32.0,,,,1x HDMI 2.1,,,12 Ultimate (12_2),4.6,1.2,1.2,,,"274 mm
+					10.8 inches",6.7,BGA-1303,299 USD,1280.0,2 MB,8.013 TFLOPS (2:1),250.4 GFLOPS (1:16),"151 mm
+					5.9 inches","64 mm
+					2.5 inches",1.93 kg (4.25 lbs),512 GB NVMe SSD,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3793,NVIDIA A10 PCIe,GA102,GA102-890-A1,"Apr 12th, 2021",PCIe 4.0 x16,885 MHz,1695 MHz,"1563 MHz
+										
+					12.5 Gbps effective",24 GB,GDDR6,384 bit,,162.7 GPixel/s,488.2 GTexel/s,31.24 TFLOPS,150 W,31.24,Ampere,Samsung,8 nm,"28,300 million",45.1M / mm²,628 mm²,"Tesla Ampere
+(Axx)",Tesla Turing,Tesla Ada,Active,,,600.2 GB/s,,,288.0,96.0,,Single-slot,450 W,No outputs,1x 8-pin,PG133 SKU 215,12 Ultimate (12_2),4.6,3.0,1.3,,,"267 mm
+					10.5 inches",6.7,BGA-3328,,9216.0,6 MB,31.24 TFLOPS (1:1),976.3 GFLOPS (1:32),"111 mm
+					4.4 inches",,,,2021.0,72.0,288.0,72.0,128 KB (per SM),8.6,1x 7th Gen,2x 5th Gen,,,,,,,,,,,,,,,,,,,
+2503,AMD Radeon R5 235X OEM,Caicos,Caicos XTX,"Dec 21st, 2013",PCIe 2.0 x16,,,"900 MHz
+										
+					1800 Mbps effective",1024 MB,DDR3,64 bit,2.0,3.500 GPixel/s,7.000 GTexel/s,280.0 GFLOPS,18 W,280.0,TeraScale 2,TSMC,40 nm,370 million,5.5M / mm²,67 mm²,"Volcanic Islands
+(R5 200)",Sea Islands,Pirate Islands,End-of-life,,875 MHz,14.40 GB/s,,,8.0,4.0,,Single-slot,200 W,1x DVI1x HDMI 1.3a,None,,11.2 (11_0),4.4,1.2,,,,"168 mm
+					6.6 inches",5.0,FCBGA-631,,160.0,128 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+822,AMD Radeon HD 7480D IGP,Scrapper Lite,,"Oct 2nd, 2012",IGP,,,System Shared,System Shared,System Shared,System Shared,2.0,2.880 GPixel/s,5.760 GTexel/s,184.3 GFLOPS,65 W,184.3,TeraScale 3,GlobalFoundries,32 nm,"1,303 million",5.3M / mm²,246 mm²,"TeraScale 3 IGP
+(Trinity)",TeraScale 2 IGP,GCN 2.0 IGP,End-of-life,,720 MHz,System Dependent,,,8.0,4.0,,IGP,,Motherboard Dependent,,,11.2 (11_0),4.4,1.2,,,,,5.0,µPGA-722/904,53 USD,128.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3051,NVIDIA TITAN V,GV100,GV100-400-A1,"Dec 7th, 2017",PCIe 3.0 x16,1200 MHz,1455 MHz,"848 MHz
+										
+					1696 Mbps effective",12 GB,HBM2,3072 bit,,139.7 GPixel/s,465.6 GTexel/s,14.90 TFLOPS,250 W,14.9,Volta,TSMC,12 nm,"21,100 million",25.9M / mm²,815 mm²,GeForce 10,GeForce 900,GeForce 20,End-of-life,4 in our database,,651.3 GB/s,,,320.0,96.0,,Dual-slot,600 W,1x HDMI 2.03x DisplayPort 1.4a,1x 6-pin + 1x 8-pin,PG500 SKU 0,12 (12_1),4.6,3.0,1.3,,,"267 mm
+					10.5 inches",6.7,,"2,999 USD",5120.0,4.5 MB,29.80 TFLOPS (2:1),7.450 TFLOPS (1:2),"112 mm
+					4.4 inches","40 mm
+					1.6 inches",,,,80.0,640.0,,96 KB (per SM),7.0,,,,,,,,,,,,,,,,,,,,,
+2035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+935,ATI Radeon HD 4750,RV740,RV740 PRO,"Sep 9th, 2009",PCIe 2.0 x16,,,"800 MHz
+										
+					3.2 Gbps effective",512 MB,GDDR5,128 bit,8.0,11.68 GPixel/s,23.36 GTexel/s,934.4 GFLOPS,100 W,934.4,TeraScale,TSMC,40 nm,826 million,6.0M / mm²,137 mm²,"Radeon R700
+(HD 4700)",Radeon R600,Evergreen,End-of-life,1 in our database,730 MHz,51.20 GB/s,,,32.0,16.0,,Single-slot,300 W,2x DVI1x S-Video,1x 6-pin,B863,10.1 (10_1),3.3,1.1,,,,,4.1,,,640.0,128 KB,,186.9 GFLOPS (1:5),,,,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+3017,NVIDIA GeForce GT 635M,GF108,,"Mar 22nd, 2012",MXM-A (3.0),,,"900 MHz
+										
+					1800 Mbps effective",2 GB,DDR3,128 bit,,2.640 GPixel/s,10.56 GTexel/s,253.4 GFLOPS,33 W,253.4,Fermi,TSMC,40 nm,585 million,5.0M / mm²,116 mm²,GeForce 600M,GeForce 500M,GeForce 700M,End-of-life,,660 MHz,28.80 GB/s,,,16.0,4.0,,MXM Module,,Portable Device Dependent,,,12 (11_0),4.6,1.1,,,,,5.1,BGA-973,,96.0,128 KB,,21.12 GFLOPS (1:12),,,,,,2.0,,,64 KB (per SM),2.1,,,1320 MHz,,,,,,,,,,,,,,,,,,
+1957,NVIDIA GeForce GT 430 OEM,GF108,GF108-400-A1,"Oct 11th, 2010",PCIe 2.0 x16,,,"800 MHz
+										
+					1600 Mbps effective",2 GB,DDR3,128 bit,,2.800 GPixel/s,11.20 GTexel/s,268.8 GFLOPS,49 W,268.8,Fermi,TSMC,40 nm,585 million,5.0M / mm²,116 mm²,GeForce 400,GeForce 200,GeForce 500,End-of-life,33 in our database,700 MHz,25.60 GB/s,,,16.0,4.0,,Single-slot,200 W,1x DVI1x HDMI 1.3a1x VGA,None,,12 (11_0),4.6,1.1,,,,"145 mm
+					5.7 inches",5.1,BGA-973,,96.0,256 KB,,22.40 GFLOPS (1:12),,,,,,2.0,,,64 KB (per SM),2.1,,,1400 MHz,,,,,,,,,,,,,,,,,,
+1451,NVIDIA NVS 310,GF119S,GF119-825-A1,"Jun 26th, 2012",PCIe 2.0 x16,,,"875 MHz
+										
+					1750 Mbps effective",512 MB,DDR3,64 bit,,1.046 GPixel/s,4.184 GTexel/s,100.4 GFLOPS,20 W,100.4,Fermi 2.0,TSMC,40 nm,292 million,3.7M / mm²,79 mm²,NVS,,,End-of-life,26 in our database,523 MHz,14.00 GB/s,,,8.0,4.0,,Single-slot,200 W,2x DisplayPort,None,P2014,12 (11_0),4.6,1.1,,,,"156 mm
+					6.1 inches",5.1,BGA-533,159 USD,48.0,128 KB,,8.368 GFLOPS (1:12),,,,,,1.0,,,64 KB (per SM),2.1,,,1046 MHz,,,,,,,,,,,,,,,,,,
+739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4414,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+289,NVIDIA GeForce GTX 560 Ti 448,GF110,GF110-270-A1,"Nov 29th, 2011",PCIe 2.0 x16,,,"950 MHz
+										
+					3.8 Gbps effective",1280 MB,GDDR5,320 bit,,20.50 GPixel/s,40.99 GTexel/s,"1,312 GFLOPS",210 W,1312.0,Fermi 2.0,TSMC,40 nm,"3,000 million",5.8M / mm²,520 mm²,GeForce 500,GeForce 400,GeForce 600,End-of-life,36 in our database,732 MHz,152.0 GB/s,,,56.0,40.0,,Dual-slot,550 W,2x DVI1x mini-HDMI 1.3a,2x 6-pin,"P1261 SKU 5, P1263 SKU 10",12 (11_0),4.6,1.1,,,,"267 mm
+					10.5 inches",5.1,BGA-1981,289 USD,448.0,640 KB,,164.0 GFLOPS (1:8),,,,,,14.0,,,64 KB (per SM),2.0,,,1464 MHz,,,,,,,,,,,,,,,,,,
+4408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2534,NVIDIA GeForce GTX 880M,GK104,N15E-GX-A2,"Mar 12th, 2014",MXM-B (3.0),954 MHz,993 MHz,"1250 MHz
+										
+					5 Gbps effective",8 GB,GDDR5,256 bit,,31.78 GPixel/s,127.1 GTexel/s,3.050 TFLOPS,122 W,3.05,Kepler,TSMC,28 nm,"3,540 million",12.0M / mm²,294 mm²,GeForce 800M,GeForce 700M,GeForce 900M,End-of-life,1 in our database,,160.0 GB/s,,,128.0,32.0,,MXM Module,,Portable Device Dependent,None,P2053 SKU 2,12 (11_0),4.6,3.0,1.2.175,,,,6.5 (5.1),BGA-1745,,1536.0,512 KB,,127.1 GFLOPS (1:24),,,,,,,,,16 KB (per SMX),3.0,,,,8.0,,,,,,,,,,,,,,,,,
+4033,ATI Radeon X1650 SE,RV515,,2007,PCIe 1.0 x16,,,"400 MHz
+										
+					800 Mbps effective",512 MB,DDR2,128 bit,,2.540 GPixel/s,2.540 GTexel/s,,27 W,,Ultra-Threaded SE,TSMC,90 nm,107 million,1.1M / mm²,100 mm²,"Radeon R500 PCIe
+(X1650)",Radeon R400 PCIe,Radeon R600,End-of-life,,635 MHz,12.80 GB/s,4.0,2.0,4.0,4.0,317.5 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,,9.0c (9_3),2.1,,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2338,NVIDIA GeForce 9400 GT Rev. 3,GT218S,GT218-670-B1,"Jun 13th, 2012",PCIe 2.0 x16,,,"600 MHz
+										
+					1200 Mbps effective",128 MB,DDR2,64 bit,,2.356 GPixel/s,4.712 GTexel/s,44.86 GFLOPS,50 W,44.86,Tesla 2.0,TSMC,40 nm,260 million,4.6M / mm²,57 mm²,"GeForce 9
+(9400)",GeForce 8,GeForce 200,End-of-life,6 in our database,589 MHz,9.600 GB/s,,,8.0,4.0,,Single-slot,250 W,1x DVI1x VGA1x S-Video,None,"P690, P691",11.1 (10_1),3.3,1.1,,,,"168 mm
+					6.6 inches",4.1,BGA-533,,16.0,32 KB,,,,,,,,2.0,,,,1.2,,,1402 MHz,,,,,,,,,,,,,,,,,,
+264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,AMD Radeon HD 7490M,Seymour,"Seymour XTX M2
+										
+(216-0809000)","Jan 7th, 2012",PCIe 2.0 x16,,,"950 MHz
+										
+					3.8 Gbps effective",1024 MB,GDDR5,64 bit,2.0,3.200 GPixel/s,6.400 GTexel/s,256.0 GFLOPS,9 W,256.0,TeraScale 2,TSMC,40 nm,370 million,5.5M / mm²,67 mm²,"London
+(HD 7400M)",Vancouver,Solar System,End-of-life,,800 MHz,30.40 GB/s,,,8.0,4.0,,,,Portable Device Dependent,,,11.2 (11_0),4.4,1.2,,,,,5.0,FCBGA-631/962,,160.0,128 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+4148,AMD Radeon PRO W7800,Navi 31,Navi 31,"Apr 13th, 2023",PCIe 4.0 x16,1855 MHz,2499 MHz,"2250 MHz
+										
+					18 Gbps effective",32 GB,GDDR6,256 bit,70.0,319.9 GPixel/s,699.7 GTexel/s,44.78 TFLOPS,260 W,44.78,RDNA 3.0,TSMC,5 nm,"57,700 million",109.1M / mm²,529 mm²,"Radeon Pro Navi
+(Navi III Series)",,,Active,,,576.0 GB/s,,,280.0,128.0,,Dual-slot,600 W,3x DisplayPort 2.11x mini-DisplayPort 2.1,2x 8-pin,,12 Ultimate (12_2),4.6,2.2,1.3,,,"280 mm
+					11 inches",6.7,MCM,"2,499 USD",4480.0,6 MB,89.56 TFLOPS (2:1),"1,399 GFLOPS (1:32)","110 mm
+					4.3 inches","40 mm
+					1.6 inches",,,2023.0,,,70.0,256 KB per Array,,,,,,Plum Bonito,6 nm,N5 / N6 FinFET,"45,400 million","2,050 million x6",150.2M / mm²,54.64M / mm²,304.35 mm²,37.52 mm² x6,64 KB per WGP,64 MB,,,,,,
+1334,NVIDIA Quadro FX 540,NV43,NV43 GL,"Aug 9th, 2004",PCIe 1.0 x16,,,"250 MHz
+										
+					500 Mbps effective",128 MB,GDDR3,128 bit,,2.400 GPixel/s,2.400 GTexel/s,,25 W,,Curie,TSMC,110 nm,146 million,948.1K / mm²,154 mm²,"Quadro FX Curie
+(x400)",Quadro FX Rankine,Quadro FX Tesla,End-of-life,26 in our database,300 MHz,8.000 GB/s,8.0,4.0,8.0,8.0,300.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,Q229 SKU 1,9.0c (9_3),"2.0 (full)
+					2.1 (partial)",,,,,"198 mm
+					7.8 inches",3.0,BGA-825,299 USD,,,,,"111 mm
+					4.4 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4422,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3806,NVIDIA RTX A3000 Mobile,GA104,,"Apr 12th, 2021",PCIe 4.0 x16,600 MHz,1230 MHz,"1375 MHz
+										
+					11 Gbps effective",6 GB,GDDR6,192 bit,,78.72 GPixel/s,157.4 GTexel/s,10.08 TFLOPS,70 W,10.08,Ampere,Samsung,8 nm,"17,400 million",44.4M / mm²,392 mm²,"Quadro Ampere-M
+(Ax000)",Quadro Turing-M,Quadro Ada-M,Active,,,264.0 GB/s,,,128.0,64.0,,,,Portable Device Dependent,None,,12 Ultimate (12_2),4.6,3.0,1.3,,,,6.7,BGA-2713,,4096.0,4 MB,10.08 TFLOPS (1:1),157.4 GFLOPS (1:64),,,,,,32.0,128.0,32.0,128 KB (per SM),8.6,,,,,,,,,,,,,,,,,,,,,
+2724,NVIDIA GeForce GTX 980 Ti,GM200,GM200-310-A1,"Jun 2nd, 2015",PCIe 3.0 x16,1000 MHz,1076 MHz,"1753 MHz
+										
+					7 Gbps effective",6 GB,GDDR5,384 bit,,103.3 GPixel/s,189.4 GTexel/s,6.060 TFLOPS,250 W,6.06,Maxwell 2.0,TSMC,28 nm,"8,000 million",13.3M / mm²,601 mm²,GeForce 900,GeForce 700,GeForce 10,End-of-life,169 in our database,,336.6 GB/s,,,176.0,96.0,,Dual-slot,600 W,1x DVI1x HDMI 2.03x DisplayPort 1.2,1x 6-pin + 1x 8-pin,PG600 SKU 30,12 (12_1),4.6,3.0,1.3,,,"267 mm
+					10.5 inches",6.7,BGA-2152,649 USD,2816.0,3 MB,,189.4 GFLOPS (1:32),"111 mm
+					4.4 inches","40 mm
+					1.6 inches",,,,,,,48 KB (per SMM),5.2,,,,,,,,,,,,,,,,22.0,,,,,
+4159,AMD Radeon RX 7700,Navi 32,Navi 32,2023,PCIe 4.0 x16,1900 MHz,2600 MHz,"2250 MHz
+										
+					18 Gbps effective",12 GB,GDDR6,192 bit,48.0,249.6 GPixel/s,499.2 GTexel/s,31.95 TFLOPS,200 W,31.95,RDNA 3.0,TSMC,5 nm,"28,100 million",81.2M / mm²,346 mm²,"Navi III
+(RX 7000)",Navi II,,Unreleased,,,432.0 GB/s,,,192.0,96.0,,Dual-slot,550 W,1x HDMI 2.1a2x DisplayPort 2.11x USB Type-C,1x 8-pin,,12 Ultimate (12_2),4.6,2.2,1.3,,,"267 mm
+					10.5 inches",6.7,MCM,479 USD,3072.0,2 MB,63.90 TFLOPS (2:1),998.4 GFLOPS (1:32),"135 mm
+					5.3 inches","50 mm
+					2 inches",,,2023.0,,,48.0,128 KB per Array,,,,,,Wheat Nas,6 nm,N5 / N6 FinFET,,,,,,,32 KB per WGP,64 MB,,200mm²,36.6 mm² x4,40mm × 40mm,2400 MHz,
+3779,NVIDIA GeForce 8400 SE,G86S,,"Aug 1st, 2008",PCIe 1.0 x16,,,"400 MHz
+										
+					800 Mbps effective",128 MB,DDR2,64 bit,,1.836 GPixel/s,3.672 GTexel/s,29.38 GFLOPS,50 W,29.38,Tesla,TSMC,80 nm,210 million,1.7M / mm²,127 mm²,"GeForce 8
+(8400)",GeForce 7 PCIe,GeForce 9,End-of-life,,459 MHz,6.400 GB/s,,,8.0,4.0,,Single-slot,250 W,1x DVI1x VGA1x S-Video,None,"P413 SKU 7, P413 SKU 10",11.1 (10_0),3.3,1.1,,,,"168 mm
+					6.6 inches",4.0,BGA-533,,16.0,16 KB,,,,,,,,2.0,,,,1.1,,,918 MHz,,,,,,,,,,,,,,,,,,
+1406,ATI Mobility Radeon HD 3650,M86,"M86-ME
+										
+(216-0683013)","Jan 7th, 2008",MXM-II,,,"700 MHz
+										
+					1400 Mbps effective",512 MB,GDDR3,128 bit,3.0,2.000 GPixel/s,4.000 GTexel/s,120.0 GFLOPS,unknown,120.0,TeraScale,TSMC,55 nm,378 million,2.8M / mm²,135 mm²,"M8x
+(Mobility HD 3600)",M7x,M9x,End-of-life,2 in our database,500 MHz,22.40 GB/s,,,8.0,4.0,,MXM Module,,Portable Device Dependent,,109-B37631-00,10.1 (10_1),3.3,,,,,,4.1,FCBGA-880,,120.0,128 KB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2064,ATI Radeon HD 5630,Redwood,Redwood LE,"Feb 15th, 2011",PCIe 2.0 x16,,,"390 MHz
+										
+					780 Mbps effective",1024 MB,GDDR3,128 bit,4.0,5.200 GPixel/s,10.40 GTexel/s,416.0 GFLOPS,39 W,416.0,TeraScale 2,TSMC,40 nm,627 million,6.0M / mm²,104 mm²,"Evergreen
+(HD 5600)",Radeon R700,Northern Islands,End-of-life,,650 MHz,12.48 GB/s,,,16.0,8.0,,Single-slot,200 W,1x DVI1x HDMI 1.3a1x VGA,None,,11.2 (11_0),4.4,1.2,,,,"165 mm
+					6.5 inches",5.0,FCBGA-962,,320.0,256 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+3186,NVIDIA Tesla V100 DGXS 32 GB,GV100,,"Mar 27th, 2018",PCIe 3.0 x16,1297 MHz,1530 MHz,"876 MHz
+										
+					1752 Mbps effective",32 GB,HBM2,4096 bit,,195.8 GPixel/s,489.6 GTexel/s,15.67 TFLOPS,250 W,15.67,Volta,TSMC,12 nm,"21,100 million",25.9M / mm²,815 mm²,"Tesla Volta
+(Vxx)",Tesla Pascal,Tesla Turing,End-of-life,,,897.0 GB/s,,,320.0,128.0,,Dual-slot,600 W,No outputs,None,,12 (12_1),4.6,3.0,1.3,,,,6.7,,,5120.0,6 MB,31.33 TFLOPS (2:1),7.834 TFLOPS (1:2),,,,,,80.0,640.0,,128 KB (per SM),7.0,,,,,,,,,,,,,,,,,,,,,
+2397,AMD Radeon R9 290,Hawaii,"Hawaii PRO
+										
+(215-0852020)","Nov 5th, 2013",PCIe 3.0 x16,,,"1250 MHz
+										
+					5 Gbps effective",4 GB,GDDR5,512 bit,40.0,60.61 GPixel/s,151.5 GTexel/s,4.849 TFLOPS,275 W,4.849,GCN 2.0,TSMC,28 nm,"6,200 million",14.2M / mm²,438 mm²,"Volcanic Islands
+(R9 200)",Sea Islands,Pirate Islands,End-of-life,69 in our database,947 MHz,320.0 GB/s,,,160.0,64.0,,Dual-slot,600 W,2x DVI1x HDMI 1.4a1x DisplayPort 1.2,1x 6-pin + 1x 8-pin,109-C67157-00_02,12 (12_0),4.6,2.1,1.2.170,,,"275 mm
+					10.8 inches",6.5,,399 USD,2560.0,1024 KB,,606.1 GFLOPS (1:8),"109 mm
+					4.3 inches","36 mm
+					1.4 inches",,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+2343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3221,Intel Iris Plus Graphics 655 Mobile,Coffee Lake GT3e,,"Apr 3rd, 2018",Ring Bus,300 MHz,1050 MHz,System Shared,System Shared,System Shared,System Shared,,6.300 GPixel/s,50.40 GTexel/s,806.4 GFLOPS,15 W,806.4,Generation 9.5,Intel,14 nm+++,unknown,,unknown,"HD Graphics-M
+(Coffee Lake)",,,Active,3 in our database,,System Dependent,,,48.0,6.0,,IGP,,Portable Device Dependent,,,12 (12_1),4.6,3.0,1.3,,,,6.4,,,384.0,,1.613 TFLOPS (2:1),201.6 GFLOPS (1:4),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48.0
+4296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3656,AMD Radeon Vega 3 Embedded,Raven,Embedded,"Jul 16th, 2018",IGP,300 MHz,1001 MHz,System Shared,System Shared,System Shared,System Shared,3.0,4.004 GPixel/s,12.01 GTexel/s,384.4 GFLOPS,15 W,384.4,GCN 5.0,GlobalFoundries,14 nm,"4,940 million",23.5M / mm²,210 mm²,"Vega IGP
+(Raven Ridge)",GCN 3.0 IGP,Vega II IGP,Active,,,System Dependent,,,12.0,4.0,,IGP,,Motherboard Dependent,None,,12 (12_1),4.6,2.1,1.3,,,,6.7,µOPGA-1331,,192.0,,768.8 GFLOPS (2:1),24.02 GFLOPS (1:16),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2340,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3512,NVIDIA GeForce GTX 1650 Ti Mobile,TU117,N18P-G62,"Apr 2nd, 2020",PCIe 3.0 x16,1350 MHz,1485 MHz,"1500 MHz
+										
+					12 Gbps effective",4 GB,GDDR6,128 bit,,47.52 GPixel/s,95.04 GTexel/s,3.041 TFLOPS,50 W,3.041,Turing,TSMC,12 nm,"4,700 million",23.5M / mm²,200 mm²,GeForce 16 Mobile,GeForce 10 Mobile,GeForce 20 Mobile,Active,,,192.0 GB/s,,,64.0,32.0,,,,Portable Device Dependent,None,E4904 SKU 11,12 (12_1),4.6,3.0,1.3,,,,6.7,BGA-960,,1024.0,1024 KB,6.083 TFLOPS (2:1),95.04 GFLOPS (1:32),,,,,,16.0,,,64 KB (per SM),7.5,,,,,,,,,,,,,,,,,,,,,
+2283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,ATI Radeon HD 4870 X2,R700,"R700 XT
+										
+(215-0669045)","Aug 12th, 2008",PCIe 2.0 x16,,,"900 MHz
+										
+					3.6 Gbps effective",1024 MB,GDDR5,256 bit,10.0,12.00 GPixel/s,30.00 GTexel/s,"1,200 GFLOPS",286 W,1200.0,TeraScale,TSMC,55 nm,956 million,3.7M / mm²,256 mm²,"Radeon R700
+(HD 4800)",Radeon R600,Evergreen,End-of-life,79 in our database,750 MHz,115.2 GB/s,,,40.0,16.0,,Dual-slot,600 W,2x DVI1x S-Video,1x 6-pin + 1x 8-pin,109-B50937-00,10.1 (10_1),3.3,1.1,,,,"267 mm
+					10.5 inches",4.1,,550 USD,800.0,256 KB,,240.0 GFLOPS (1:5),"111 mm
+					4.4 inches","38 mm
+					1.5 inches",,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+2565,NVIDIA GeForce GTX 760A,GK106,N14E-GL-A1,"Mar 17th, 2014",PCIe 3.0 x16,628 MHz,719 MHz,"1002 MHz
+										
+					4 Gbps effective",1024 MB,GDDR5,128 bit,,11.50 GPixel/s,46.02 GTexel/s,"1,104 GFLOPS",55 W,1104.0,Kepler,TSMC,28 nm,"2,540 million",11.5M / mm²,221 mm²,GeForce 700A,GeForce 600A,GeForce 800A,End-of-life,,,64.13 GB/s,,,64.0,16.0,,MXM Module,,Portable Device Dependent,None,E2044 SKU 20,12 (11_0),4.6,3.0,1.2.175,,,,6.5 (5.1),BGA-1425,,768.0,256 KB,,46.02 GFLOPS (1:24),,,,,,,,,16 KB (per SMX),3.0,,,,4.0,,,,,,,,,,,,,,,,,
+4343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2647,NVIDIA GeForce 920A,GK208B,N16V-GM,"Mar 13th, 2015",PCIe 3.0 x8,954 MHz,954 MHz,"1001 MHz
+										
+					2 Gbps effective",1024 MB,DDR3,64 bit,,7.632 GPixel/s,30.53 GTexel/s,732.7 GFLOPS,33 W,732.7,Kepler 2.0,TSMC,28 nm,"1,020 million",11.7M / mm²,87 mm²,GeForce 900A,GeForce 800A,,Active,,,16.02 GB/s,,,32.0,8.0,,IGP,,Portable Device Dependent,None,,12 (11_0),4.6,3.0,1.2.175,,,,6.5 (5.1),FCBGA-595,,384.0,512 KB,,30.53 GFLOPS (1:24),,,,,,,,,16 KB (per SMX),3.5,,,,2.0,,,,,,,,,,,,,,,,,
+1289,Intel i752 Graphics,Portola,,1998,AGP 2x,,,System Shared,System Shared,System Shared,System Shared,,100.0 MPixel/s,100.0 MTexel/s,,unknown,,Generation 1.0,Intel,150 nm,unknown,,unknown,"Graphics
+(IGP)",,,End-of-life,3 in our database,100 MHz,System Dependent,2.0,0.0,1.0,1.0,,IGP,,Motherboard Dependent,,,7.0,1.2,,,1.4,1.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1283,Intel Extreme Graphics,Brookdale,Brookdale-G (845G),2002,FSB,,,System Shared,System Shared,System Shared,System Shared,,200.0 MPixel/s,200.0 MTexel/s,,unknown,,Generation 2.0,Intel,150 nm,unknown,,unknown,"Extreme Graphics
+(IGP)",,,End-of-life,3 in our database,200 MHz,System Dependent,2.0,0.0,1.0,1.0,,IGP,,Motherboard Dependent,,,7.0,1.3,,,1.4,1.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2182,ATI Mobility Radeon 9000,M9,"M9-CSP64
+										
+(216T9NCBGA13FH)","Sep 1st, 2002",AGP 4x,,,"200 MHz
+										
+					400 Mbps effective",64 MB,DDR,64 bit,,960.0 MPixel/s,960.0 MTexel/s,,unknown,,Rage 7,TSMC,150 nm,36 million,444.4K / mm²,81 mm²,"M9
+(Mobility 9000)",M7,M1x,End-of-life,2 in our database,240 MHz,3.200 GB/s,4.0,1.0,4.0,4.0,60.00 MVertices/s,,,Portable Device Dependent,,,8.1,1.4,,,1.4,1.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1579,NVIDIA GeForce Go 7300,G72B,GF-GO7300-B-N-A3,"Feb 1st, 2006",PCIe 1.0 x16,,,"350 MHz
+										
+					700 Mbps effective",64 MB,GDDR3,64 bit,,700.0 MPixel/s,1.400 GTexel/s,,unknown,,Curie,TSMC,90 nm,112 million,1.4M / mm²,81 mm²,"GeForce Go 7
+(Go 7000)",GeForce Go 6,GeForce 8M,End-of-life,,350 MHz,5.600 GB/s,4.0,3.0,4.0,2.0,262.5 MVertices/s,,,Portable Device Dependent,None,E463,9.0c (9_3),2.1,,,,,,3.0,BGA-820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,ATI Radeon X850 XT Platinum,R480,"R480 XT X850
+										
+(215RCJAGA11F)","Dec 21st, 2004",PCIe 1.0 x16,,,"590 MHz
+										
+					1180 Mbps effective",256 MB,GDDR3,256 bit,,8.640 GPixel/s,8.640 GTexel/s,,67 W,,R400,TSMC,130 nm,160 million,538.7K / mm²,297 mm²,"Radeon R400 PCIe
+(X850)",Radeon R300,Radeon R500 PCIe,End-of-life,58 in our database,540 MHz,37.76 GB/s,16.0,6.0,16.0,16.0,810.0 MVertices/s,Dual-slot,250 W,2x DVI1x S-Video,1x 6-pin,"109-A47401-00, 109-A47401-10",9.0b (9_2),2.1,,,2.0b,2.0b,"186 mm
+					7.3 inches",,,549 USD,,,,,"111 mm
+					4.4 inches","41 mm
+					1.6 inches",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1920,Matrox Millennium G550,Condor,MGA-G550-B,"Nov 26th, 2001",AGP 4x,,,"166 MHz
+										
+					332 Mbps effective",32 MB,DDR,64 bit,,250.0 MPixel/s,250.0 MTexel/s,,unknown,,G500,UMC,180 nm,10 million,,unknown,"G Series
+(G5xx)",,,End-of-life,5 in our database,125 MHz,2.656 GB/s,2.0,1.0,2.0,2.0,31.25 MVertices/s,Single-slot,200 W,1x DVI1x VGA,,,8.0,1.5,,,1.3,2.0,"168 mm
+					6.6 inches",,,199 USD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,ATI Radeon X1300 PRO AGP,RV515,"RV515 PRO
+										
+(215FADAKA13FG)","Oct 1st, 2005",AGP 8x,,,"400 MHz
+										
+					800 Mbps effective",256 MB,DDR,128 bit,,2.400 GPixel/s,2.400 GTexel/s,,31 W,,Ultra-Threaded SE,TSMC,90 nm,107 million,1.1M / mm²,100 mm²,"Radeon R500 AGP
+(X1300)",Radeon R400 AGP,Radeon R600,End-of-life,48 in our database,600 MHz,12.80 GB/s,4.0,2.0,4.0,4.0,300.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,,9.0c (9_3),2.1,,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+936,NVIDIA GeForce GTX 560M,GF116,N12E-GS-A1,"May 30th, 2011",MXM-B (3.0),,,"625 MHz
+										
+					2.5 Gbps effective",1536 MB,GDDR5,192 bit,,6.200 GPixel/s,24.80 GTexel/s,595.2 GFLOPS,75 W,595.2,Fermi 2.0,TSMC,40 nm,"1,170 million",4.9M / mm²,238 mm²,GeForce 500M,GeForce 400M,GeForce 600M,End-of-life,,775 MHz,60.00 GB/s,,,32.0,24.0,,MXM Module,,Portable Device Dependent,None,"E1069 SKU 87, P1065",12 (11_0),4.6,1.1,,,,,5.1,BGA-1337,,192.0,384 KB,,49.60 GFLOPS (1:12),,,,,,4.0,,,64 KB (per SM),2.1,,,1550 MHz,,,,,,,,,,,,,,,,,,
+3219,AMD Radeon HD 8950M,Saturn,"Saturn XT
+										
+(216-0843024)","May 14th, 2013",PCIe 3.0 x16,,,"1375 MHz
+										
+					5.5 Gbps effective",2 GB,GDDR5,128 bit,12.0,17.20 GPixel/s,51.60 GTexel/s,1.651 TFLOPS,100 W,1.651,GCN 2.0,TSMC,28 nm,"2,080 million",13.0M / mm²,160 mm²,"Solar System
+(HD 8900M)",London,Gem System,End-of-life,,1075 MHz,88.00 GB/s,,,48.0,16.0,,MXM Module,,Portable Device Dependent,,,12 (12_0),4.6,2.1,1.2.170,,,,6.5,FCBGA-1093,,768.0,256 KB,,103.2 GFLOPS (1:16),,,,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+2247,ATI Mobility Radeon HD 5670 Mac Edition,Madison,"Madison XT
+										
+(216-0772003)","Apr 22nd, 2010",PCIe 2.0 x16,,,"795 MHz
+										
+					1590 Mbps effective",512 MB,GDDR3,128 bit,5.0,5.200 GPixel/s,13.00 GTexel/s,520.0 GFLOPS,15 W,520.0,TeraScale 2,TSMC,40 nm,627 million,6.0M / mm²,104 mm²,"Manhattan
+(Mobility HD 5600)",M9x,Vancouver,End-of-life,2 in our database,650 MHz,25.44 GB/s,,,20.0,8.0,,,,Portable Device Dependent,,,11.2 (11_0),4.4,1.2,,,,,5.0,FCBGA-962,,400.0,256 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+3883,Intel UHD Graphics 48EU Mobile,Alder Lake GT1,,"Jan 4th, 2022",Ring Bus,300 MHz,1150 MHz,System Shared,System Shared,System Shared,System Shared,,13.80 GPixel/s,27.60 GTexel/s,883.2 GFLOPS,45 W,883.2,Generation 12.2,Intel,10 nm,unknown,,unknown,"HD Graphics-M
+(Alder Lake)",,,Active,3 in our database,,System Dependent,,,24.0,12.0,,IGP,,Portable Device Dependent,,,12 (12_1),4.6,3.0,1.3,,,,6.6,FC-LGA16A BGA16A,,384.0,1024 KB,1.766 TFLOPS (2:1),220.8 GFLOPS (1:4),,,,,,,,,,,,,,,,,,,,,,,,,8 MB,,,,,,48.0
+4092,NVIDIA GeForce RTX 3050 Max-Q Refresh 4 GB,GA107,,"Jul 6th, 2022",PCIe 4.0 x8,757 MHz,1125 MHz,"1375 MHz
+										
+					11 Gbps effective",4 GB,GDDR6,128 bit,,36.00 GPixel/s,72.00 GTexel/s,4.608 TFLOPS,35 W,4.608,Ampere,Samsung,8 nm,"8,700 million",43.5M / mm²,200 mm²,GeForce 30 Mobile,GeForce 20 Mobile,,Active,,,176.0 GB/s,,,64.0,32.0,,IGP,,Portable Device Dependent,None,,12 Ultimate (12_2),4.6,3.0,1.3,,,,6.7,FCBGA-1358,,2048.0,2 MB,4.608 TFLOPS (1:1),72.00 GFLOPS (1:64),,,,,2023.0,16.0,64.0,16.0,128 KB (per SM),8.6,,,,,,,,,,,,,,,,,,,,,
+1411,NVIDIA GeForce GT 625M,GF117B,N13M-GS-B-A2,"Oct 1st, 2012",PCIe 2.0 x16,,,"800 MHz
+										
+					1600 Mbps effective",2 GB,DDR3,64 bit,,2.500 GPixel/s,10.00 GTexel/s,240.0 GFLOPS,15 W,240.0,Fermi 2.0,TSMC,28 nm,585 million,5.0M / mm²,116 mm²,GeForce 600M,GeForce 500M,GeForce 700M,End-of-life,,625 MHz,12.80 GB/s,,,16.0,4.0,,IGP,,Portable Device Dependent,None,,12 (11_0),4.6,1.1,,,,,5.1,BGA-908,,96.0,128 KB,,20.00 GFLOPS (1:12),,,,,,2.0,,,64 KB (per SM),2.1,,,1250 MHz,,,,,,,,,,,,,,,,,,
+2946,AMD Radeon R7 340 OEM,Oland,,"May 5th, 2015",PCIe 3.0 x8,730 MHz,780 MHz,"1000 MHz
+										
+					4 Gbps effective",2 GB,GDDR5,128 bit,6.0,6.240 GPixel/s,18.72 GTexel/s,599.0 GFLOPS,50 W,599.0,GCN 1.0,TSMC,28 nm,950 million,12.3M / mm²,77 mm²,"Pirate Islands
+(R7 300)",Volcanic Islands,Arctic Islands,End-of-life,,,64.00 GB/s,,,24.0,8.0,,Single-slot,250 W,1x DVI1x HDMI 1.4a1x VGA,None,,12 (11_1),4.6,2.1 (1.2),1.2.170,,,,6.5 (5.1),FCBGA-962,,384.0,256 KB,,37.44 GFLOPS (1:16),,,,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+195,NVIDIA GeForce 8800 Ultra,G80,G80-450-A3,"May 2nd, 2007",PCIe 1.0 x16,,,"1080 MHz
+										
+					2.2 Gbps effective",768 MB,GDDR3,384 bit,,14.69 GPixel/s,39.17 GTexel/s,387.1 GFLOPS,171 W,387.1,Tesla,TSMC,90 nm,681 million,1.4M / mm²,484 mm²,"GeForce 8
+(8800)",GeForce 7 PCIe,GeForce 9,End-of-life,403 in our database,612 MHz,103.7 GB/s,,,32.0,24.0,,Dual-slot,450 W,2x DVI1x S-Video,2x 6-pin,P355 SKU 2,11.1 (10_0),3.3,1.1 (1.0),,,,"270 mm
+					10.6 inches",4.0,BGA-1449,829 USD,128.0,96 KB,,,,,,,,16.0,,,,1.0,,,1512 MHz,,,,,,,,,,,,,,,,,,
+4034,ATI Radeon X1650 SE,RV516,,2007,PCIe 1.0 x16,,,"400 MHz
+										
+					800 Mbps effective",512 MB,DDR2,128 bit,,2.540 GPixel/s,2.540 GTexel/s,,27 W,,Ultra-Threaded SE,UMC,90 nm,105 million,1.1M / mm²,100 mm²,"Radeon R500 PCIe
+(X1650)",Radeon R400 PCIe,Radeon R600,End-of-life,,635 MHz,12.80 GB/s,4.0,2.0,4.0,4.0,317.5 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,,9.0c (9_3),2.1,,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+904,NVIDIA Quadro Plex 2200 D2,GT200B,,"Jul 25th, 2008",PCIe 2.0 x16,,,"800 MHz
+										
+					1600 Mbps effective",4 GB,GDDR3,512 bit,,20.74 GPixel/s,51.84 GTexel/s,622.1 GFLOPS,640 W,622.1,Tesla 2.0,TSMC,55 nm,"1,400 million",3.0M / mm²,470 mm²,Quadro Plex,,,End-of-life,26 in our database,648 MHz,102.4 GB/s,,,80.0,32.0,,,1000 W,No outputs,,,11.1 (10_0),3.3,1.1,,,,"522 mm
+					20.6 inches",4.0,BGA-1981,,240.0,256 KB,,77.76 GFLOPS (1:8),,,,,,30.0,,,,1.3,,,1296 MHz,,,,,,,,,,,,,,,,,,
+1545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+324,AMD Radeon HD 6750M,Whistler,"Whistler PRO
+										
+(216-0810005)","Jan 4th, 2011",MXM-A (3.0),,,"800 MHz
+										
+					1600 Mbps effective",1024 MB,GDDR3,128 bit,6.0,4.800 GPixel/s,14.40 GTexel/s,576.0 GFLOPS,35 W,576.0,TeraScale 2,TSMC,40 nm,716 million,6.1M / mm²,118 mm²,"Vancouver
+(HD 6700M)",Manhattan,London,End-of-life,,600 MHz,25.60 GB/s,,,24.0,8.0,,MXM Module,,Portable Device Dependent,,,11.2 (11_0),4.4,1.2,,,,,5.0,FCBGA-962/1336,,480.0,256 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+3565,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2865,NVIDIA Quadro P6000,GP102,GP102-875-A1,"Oct 1st, 2016",PCIe 3.0 x16,1506 MHz,1645 MHz,"1127 MHz
+										
+					9 Gbps effective",24 GB,GDDR5X,384 bit,,157.9 GPixel/s,394.8 GTexel/s,12.63 TFLOPS,250 W,12.63,Pascal,TSMC,16 nm,"11,800 million",25.1M / mm²,471 mm²,"Quadro Pascal
+(Px000)",Quadro Maxwell,Quadro Volta,End-of-life,,,432.8 GB/s,,,240.0,96.0,,Dual-slot,600 W,1x DVI4x DisplayPort 1.4a,1x 8-pin,PG611 SKU 500,12 (12_1),4.6,3.0,1.3,,,"267 mm
+					10.5 inches",6.7,BGA-2397,"5,999 USD",3840.0,3 MB,197.4 GFLOPS (1:64),394.8 GFLOPS (1:32),"111 mm
+					4.4 inches",,,,,30.0,,,48 KB (per SM),6.1,,,,,,,,,,,,,,,,,,,,,
+788,NVIDIA GeForce2 MX 200,NV11B,MX200,"Mar 3rd, 2001",AGP 4x,,,166 MHz,32 MB,SDR,64 bit,,350.0 MPixel/s,700.0 MTexel/s,,unknown,,Celsius,TSMC,180 nm,20 million,312.5K / mm²,64 mm²,GeForce 2 MX,GeForce 256,GeForce 3,End-of-life,,175 MHz,1.328 GB/s,2.0,0.0,4.0,2.0,,Single-slot,200 W,1x DVI1x VGA1x S-Video,None,,7.0,1.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+255,AMD Radeon HD 6850,Barts,"Barts PRO
+										
+(215-0798006)","Oct 21st, 2010",PCIe 2.0 x16,,,"1000 MHz
+										
+					4 Gbps effective",1024 MB,GDDR5,256 bit,12.0,24.80 GPixel/s,37.20 GTexel/s,"1,488 GFLOPS",127 W,1488.0,TeraScale 2,TSMC,40 nm,"1,700 million",6.7M / mm²,255 mm²,"Northern Islands
+(HD 6800)",Evergreen,Southern Islands,End-of-life,105 in our database,775 MHz,128.0 GB/s,,,48.0,32.0,,Dual-slot,300 W,2x DVI1x HDMI 1.3a2x mini-DisplayPort 1.1,1x 6-pin,109-C22301-00B,11.2 (11_0),4.4,1.2,,,,"198 mm
+					7.8 inches",5.0,HFCBGA-1737,179 USD,960.0,512 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+695,ATI FireGL V3400,RV530,RV530 GL,"Oct 1st, 2005",PCIe 1.0 x16,,,"500 MHz
+										
+					1000 Mbps effective",128 MB,GDDR3,128 bit,,2.000 GPixel/s,2.000 GTexel/s,,unknown,,Ultra-Threaded SE,TSMC,90 nm,157 million,1.0M / mm²,150 mm²,"FireGL
+(Vx400)",Fire GL,FirePro Terascale,End-of-life,5 in our database,500 MHz,16.00 GB/s,12.0,5.0,4.0,4.0,625.0 MVertices/s,Single-slot,200 W,2x DVI,None,109-A67131,9.0c (9_3),2.1,,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1306,NVIDIA Riva 128,NV3,,"Apr 1st, 1997",AGP 2x,,,100 MHz,4 MB,SDR,128 bit,,100.0 MPixel/s,100.0 MTexel/s,,4 W,,,ST,350 nm,4 million,56.3K / mm²,71 mm²,Riva,NV1,TNT2,End-of-life,,100 MHz,1.600 GB/s,1.0,0.0,1.0,1.0,,Single-slot,200 W,1x VGA1x DB13W3,None,,5.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1322,NVIDIA Quadro FX 4800 Mac Edition,GT200B,,"Nov 11th, 2008",PCIe 2.0 x16,,,"800 MHz
+										
+					1600 Mbps effective",1536 MB,GDDR3,384 bit,,14.45 GPixel/s,38.53 GTexel/s,462.3 GFLOPS,150 W,462.3,Tesla 2.0,TSMC,55 nm,"1,400 million",3.0M / mm²,470 mm²,"Quadro FX Tesla
+(x800)",Quadro FX Curie,Quadro Fermi,End-of-life,26 in our database,602 MHz,76.80 GB/s,,,64.0,24.0,,Dual-slot,450 W,2x DVI1x S-Video,1x 6-pin,,11.1 (10_0),3.3,1.1,,,,"267 mm
+					10.5 inches",4.0,BGA-1981,"1,799 USD",192.0,192 KB,,57.79 GFLOPS (1:8),"111 mm
+					4.4 inches",,,,,24.0,,,,1.3,,,1204 MHz,,,,,,,,,,,,,,,,,,
+3225,NVIDIA Tegra 2 GPU,Tegra 2,T20MGS-SHP-A3,"Jun 3rd, 2010",IGP,300 MHz,400 MHz,"333 MHz
+										
+					666 Mbps effective",256 MB,DDR2,32 bit,,1.600 GPixel/s,1.600 GTexel/s,,20 W,,VLIW Vec4,TSMC,40 nm,unknown,,unknown,Tegra,,,End-of-life,,,2.664 GB/s,4.0,4.0,4.0,4.0,300.0 MVertices/s,IGP,,Portable Device Dependent,,,,ES 2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1770,NVIDIA GeForce 7600 GS AGP,G71,G71-H-N-B1,"Jul 1st, 2006",AGP 8x,,,"725 MHz
+										
+					1450 Mbps effective",256 MB,GDDR3,128 bit,,4.000 GPixel/s,6.000 GTexel/s,,27 W,,Curie,TSMC,90 nm,278 million,1.4M / mm²,196 mm²,"GeForce 7 AGP
+(7600)",GeForce 6 AGP,GeForce 8,End-of-life,83 in our database,500 MHz,23.20 GB/s,12.0,5.0,12.0,8.0,625.0 MVertices/s,Single-slot,200 W,1x DVI1x VGA1x S-Video,1x Molex,,9.0c (9_3),2.1,,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3236,AMD Radeon 520 Mobile GDDR5,Banks,"Banks S3 PRO
+										
+(216-0890010)","Apr 18th, 2017",PCIe 3.0 x8,,,"1125 MHz
+										
+					4.5 Gbps effective",2 GB,GDDR5,64 bit,5.0,8.240 GPixel/s,20.60 GTexel/s,659.2 GFLOPS,50 W,659.2,GCN 1.0,TSMC,28 nm,690 million,12.3M / mm²,56 mm²,"Polaris Mobile
+(M500)",Gem System,Navi Mobile,End-of-life,,1030 MHz,36.00 GB/s,,,20.0,8.0,,IGP,,Portable Device Dependent,None,,12 (11_1),4.6,2.1 (1.2),1.2.170,,,,6.5 (5.1),FCBGA-631,,320.0,128 KB,,41.20 GFLOPS (1:16),,,,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+329,AMD Radeon HD 6550M,Capilano,"Capilano PRO
+										
+(216-0772000)","Nov 26th, 2010",MXM-II,,,"900 MHz
+										
+					1800 Mbps effective",1024 MB,DDR3,128 bit,5.0,4.800 GPixel/s,12.00 GTexel/s,480.0 GFLOPS,26 W,480.0,TeraScale 2,TSMC,40 nm,627 million,6.0M / mm²,104 mm²,"Vancouver
+(HD 6500M)",Manhattan,London,End-of-life,,600 MHz,28.80 GB/s,,,20.0,8.0,,MXM Module,,Portable Device Dependent,,,11.2 (11_0),4.4,1.2,,,,,5.0,FCBGA-962,,400.0,256 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+3406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1725,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3367,NVIDIA GeForce GTX 1650 Mobile,TU117,,"Apr 23rd, 2019",PCIe 3.0 x16,1395 MHz,1560 MHz,"2001 MHz
+										
+					8 Gbps effective",4 GB,GDDR5,128 bit,,49.92 GPixel/s,99.84 GTexel/s,3.195 TFLOPS,50 W,3.195,Turing,TSMC,12 nm,"4,700 million",23.5M / mm²,200 mm²,GeForce 16 Mobile,GeForce 10 Mobile,GeForce 20 Mobile,Active,45 in our database,,128.1 GB/s,,,64.0,32.0,,,,Portable Device Dependent,None,E4905 SKU 10,12 (12_1),4.6,3.0,1.3,,,,6.7,BGA-960,,1024.0,1024 KB,6.390 TFLOPS (2:1),99.84 GFLOPS (1:32),,,,,,16.0,,,64 KB (per SM),7.5,,,,,,,,,,,,,,,,,,,,,
+2208,AMD Radeon HD 7720 OEM,Barts,"Barts LE
+										
+(215-0798002)","Mar 15th, 2013",PCIe 2.0 x16,,,"1050 MHz
+										
+					4.2 Gbps effective",1024 MB,GDDR5,256 bit,10.0,26.88 GPixel/s,33.60 GTexel/s,"1,344 GFLOPS",150 W,1344.0,TeraScale 2,TSMC,40 nm,"1,700 million",6.7M / mm²,255 mm²,"Southern Islands
+(HD 7700)",Northern Islands,Sea Islands,End-of-life,,840 MHz,134.4 GB/s,,,40.0,32.0,,Dual-slot,450 W,2x DVI1x HDMI 1.3a1x DisplayPort 1.1,,,11.2 (11_0),4.4,1.2,,,,"198 mm
+					7.8 inches",5.0,HFCBGA-1737,,800.0,512 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+2612,AMD FirePro W2100,Oland,,"Aug 12th, 2014",PCIe 3.0 x8,630 MHz,680 MHz,"900 MHz
+										
+					1800 Mbps effective",2 GB,DDR3,128 bit,5.0,5.440 GPixel/s,13.60 GTexel/s,435.2 GFLOPS,26 W,435.2,GCN 1.0,TSMC,28 nm,950 million,12.3M / mm²,77 mm²,"FirePro GCN
+(Wx100)",FirePro Terascale,Radeon Pro Polaris,End-of-life,,,28.80 GB/s,,,20.0,8.0,,Single-slot,200 W,2x DisplayPort 1.2,None,109-C57981-00_02,12 (11_1),4.6,2.1 (1.2),1.2.170,,,"168 mm
+					6.6 inches",6.5 (5.1),FCBGA-962,,320.0,256 KB,,27.20 GFLOPS (1:16),"69 mm
+					2.7 inches",,,,,,,,16 KB (per CU),,,,,,,,,,,,,,,,,,,,,,
+566,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+886,ATI Radeon X1950 CrossFire Edition,R580+,"R580+ XT
+										
+(215BAABKA31FG)","Sep 10th, 2006",PCIe 1.0 x16,,,"1000 MHz
+										
+					2 Gbps effective",512 MB,GDDR4,256 bit,,10.40 GPixel/s,10.40 GTexel/s,,unknown,,Ultra-Threaded SE,TSMC,90 nm,384 million,1.1M / mm²,352 mm²,"Radeon R500 PCIe
+(X1950)",Radeon R400 PCIe,Radeon R600,End-of-life,144 in our database,650 MHz,64.00 GB/s,48.0,8.0,16.0,16.0,1.300 GVertices/s,Dual-slot,200 W,1x DVI1x VHDCI,1x 6-pin,A988,9.0c (9_3),"2.1 (full)
+					3.0 (partial)",,,,,,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1852,NVIDIA GeForce 320M Mac Edition,C89,MCP89UL-A3,"Apr 1st, 2010",PCIe 2.0 x16,,,System Shared,System Shared,System Shared,System Shared,,3.600 GPixel/s,7.200 GTexel/s,91.20 GFLOPS,23 W,91.2,Tesla 2.0,,40 nm,486 million,4.9M / mm²,100 mm²,GeForce 300M,GeForce 200M,GeForce 400M,End-of-life,2 in our database,450 MHz,System Dependent,,,16.0,8.0,,IGP,,Portable Device Dependent,,,11.1 (10_1),3.3,,,,,,4.1,,,48.0,,,,,,,,,4.0,,,,,,,950 MHz,,,,,,,,,,,,,,,,,,
+2904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,AMD Radeon HD 6350,Cedar,"Cedar PRO
+										
+(215-0767003)","Feb 7th, 2011",PCIe 2.0 x16,,,"500 MHz
+										
+					1000 Mbps effective",512 MB,GDDR3,64 bit,2.0,2.600 GPixel/s,5.200 GTexel/s,104.0 GFLOPS,19 W,104.0,TeraScale 2,TSMC,40 nm,292 million,4.9M / mm²,59 mm²,"Northern Islands
+(HD 6300)",Evergreen,Southern Islands,End-of-life,,650 MHz,8.000 GB/s,,,8.0,4.0,,Single-slot,200 W,1x DVI1x HDMI 1.3a,None,"B890, C027, C090, C093",11.2 (11_0),4.4,1.2,,,,"168 mm
+					6.6 inches",5.0,FCBGA-631,23 USD,80.0,128 KB,,,,,,,,,,,8 KB (per CU),,,,,,,,,,,,,,,,,,,,,,

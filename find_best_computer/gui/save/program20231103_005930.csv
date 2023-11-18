@@ -1,0 +1,5 @@
+cpu_No,gpu_No,single_thread,multi_thread,FLOPS,single_thread/price,multi_thread/price,FLOPS/price,price,store
+0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,中文句子
+0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,中文句子1
+0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,中文句子4
+0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,中文句子3

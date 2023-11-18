@@ -1,0 +1,32 @@
+
+
+proxy_String = '''
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICJiLmJhb3ppbmV0LnRvcCIsDQogICJwb3J0IjogIjI1MDAyIiwNCiAgImlkIjogIjUwYjQ3OWU2LTg4OGQtNDJiYi1iMGRkLTBlYTk5MzVmN2E3ZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICIxMTIuMjkuOTQuMjIiLA0KICAicG9ydCI6ICI1MzMwMCIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+'''
+
+proxy_list = proxy_String.split('\n')
+proxy_list.pop(0)
+proxy_list.pop(-1)
+
+# 输出列表时，每个元素后逗号输完换行
+print('[')
+for proxy in proxy_list:
+    print(f'\'{proxy}\',')
+print(']')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
